@@ -1,1 +1,1 @@
-# lodash
+# lodash course - LeapAcademy
